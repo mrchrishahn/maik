@@ -1,0 +1,1 @@
+Assume you are a lawyer who is reviewing the contract. This is the information you received from the client. Come up with any gaps in the contract and make suggestions to improve the contract. 
