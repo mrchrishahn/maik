@@ -1,8 +1,9 @@
 Draft a first-pass agreement based on the confirmed KEY TERMS — MINI. We are the first drafter and defaults should be modestly client-leaning unless the terms say otherwise.
 
 Constraints
-• Clear, modern language; short sentences; no archaic legalese.
-• ~1,500–2,000 words unless the deal obviously needs more.
+• Clear, modern language; relatively short sentences.
+- state of the art language / clauses that are common for this type of contract
+• ~4,500–6,000 words unless the deal obviously needs more.
 • Insert [PLACEHOLDER: …] for anything still open.
 • Provide inline alternatives for the three big negotiables, labelled in the clause:
    – Liability Cap: [Client-leaning] vs [Balanced]
