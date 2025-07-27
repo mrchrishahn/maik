@@ -1,1 +1,24 @@
-Based on the information you received, draft the contract. It should strike a balance between including all the necessary details but it shouldn’t be unnecessarily complex. It should not be longer than 6000 words.
+Draft a first-pass agreement based on the confirmed KEY TERMS — MINI. We are the first drafter and defaults should be modestly client-leaning unless the terms say otherwise.
+
+Constraints
+• Clear, modern language; short sentences; no archaic legalese.
+• ~1,500–2,000 words unless the deal obviously needs more.
+• Insert [PLACEHOLDER: …] for anything still open.
+• Provide inline alternatives for the three big negotiables, labelled in the clause:
+   – Liability Cap: [Client-leaning] vs [Balanced]
+   – IP Ownership/Licensing: [Client-leaning] vs [Balanced]
+   – Termination for convenience: [Flexible] vs [Strict]
+• Use schedules when helpful (Scope / Pricing / Data).
+
+Section order (adapt to the deal):
+1. Parties & Purpose
+2. What Each Side Will Do
+3. Money or Other Value (payment timing; taxes)
+4. Confidentiality (if applicable)
+5. Ownership of Work/Materials (IP) and Licences (if applicable)
+6. Liability & Indemnities (cap + standard exclusions)
+7. Term, Ending the Deal, and Effects of Termination
+8. Disputes, Governing Law, Notices
+9. General (assignment, entire agreement, changes)
+10. Signatures
+Schedules: as needed

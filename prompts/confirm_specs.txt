@@ -1,1 +1,5 @@
-Summarize the most important points you have received from the client and ask the client for confirmation. If there are any important details missing, ask the client for it.
+Show ≤8 bullets summarizing the KEY TERMS — MINI in plain language.
+Then list an “Open Items” checklist with [ ] for each [PLACEHOLDER].
+Ask: “Reply ‘Confirm all’ or fill only the unchecked items.”
+End with: “Next: We’ll prepare the first draft by [deadline], using placeholders where needed.”
+Return only the bullets, the checklist, and that one next-step line.

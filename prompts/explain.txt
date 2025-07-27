@@ -1,1 +1,9 @@
-Assume you are a lawyer who drafted this contract. Now you want to communicate and explain the draft to the client. 
+Write a ≤150-word note in plain English:
+
+• One sentence on what this contract is for.
+• What each side promises (3 short bullets).
+• The big choices we set: who owns the work, the maximum payout if things go wrong (the “cap”), and how either side can end the deal.
+• What’s still missing (list [PLACEHOLDER]s) and any attachments to add.
+• How to finish: we’ll send our draft now; then collect the other side’s comments, agree changes, and sign.
+
+End with: “Want it stricter or more flexible? Say which part: ownership, cap, or ending the deal.”

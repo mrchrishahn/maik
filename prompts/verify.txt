@@ -1,1 +1,10 @@
-Assume you are a lawyer who is reviewing the contract. This is the information you received from the client. Come up with any gaps in the contract and make suggestions to improve the contract. 
+Act as reviewing counsel. Return ONLY:
+(A) PASS/FAIL on these 6 items, with a one-sentence plain-English fix for any FAIL:
+   1. Parties/roles consistent and used correctly
+   2. Obligations align with money/value and timing
+   3. Confidentiality and ownership (IP) reflect the client’s choices
+   4. Liability cap present, sensible, and exclusions listed
+   5. Ending the deal (notice and reasons) clear and workable
+   6. Disputes location stated and realistic
+(B) List all remaining [PLACEHOLDER]s.
+(C) 5 quick “Redlines to consider” (clause + one-sentence change).
