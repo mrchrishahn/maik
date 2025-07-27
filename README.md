@@ -1,5 +1,7 @@
 # maik
 
+AI-powered chatbot that turns user-derived freelance contract specifications into  lawyer-approved documents.
+
 To install dependencies:
 
 ```bash
