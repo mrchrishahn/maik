@@ -1,7 +1,7 @@
-import { readFileSync, writeFileSync, existsSync } from 'fs';
-import { join } from 'path';
+import { readFileSync, writeFileSync, existsSync } from 'node:fs';
+import { join } from 'node:path';
 import { OpenAIClient } from './openai-client.ts';
-import type { ProcessConfig, ContractStep, ContractSession } from './types.ts';
+import type { ProcessConfig, ContractSession } from './types.ts';
 import chalk from 'chalk';
 import ora from 'ora';
 import inquirer from 'inquirer';
@@ -120,7 +120,9 @@ export class ContractProcessor {
       );
       this.session.contractDraft = draftResponse;
       console.log(chalk.gray('\nContract Draft Generated'));
-      console.log(chalk.gray('Preview:'), draftResponse.substring(0, 200) + '...');
+      console.log(chalk.gray('Preview:'), `${draftResponse.substring(0, 200)}...`);
+      // save the draft to a file
+      writeFileSync(`${this.config.outputFile}_draft.txt` || `draft_${Date.now()}.txt`, draftResponse, 'utf-8');
       
       // Pause for user input
       console.log(chalk.blue('\n⏸️  Pausing for your input...'));
@@ -157,7 +159,7 @@ export class ContractProcessor {
         `User Request: ${this.session.userPrompt}\n\nFinal Contract: ${draftResponse}\n\nVerification Notes: ${verifyResponse}\n\nFinal Adjustments: ${userInput4}`
       );
       console.log(chalk.gray('\nExplanation Generated'));
-      console.log(chalk.gray('Preview:'), explainResponse.substring(0, 200) + '...');
+      console.log(chalk.gray('Preview:'), `${explainResponse.substring(0, 200)}...`);
       
       // Pause for user input
       console.log(chalk.blue('\n⏸️  Pausing for your input...'));
