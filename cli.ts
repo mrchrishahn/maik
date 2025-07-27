@@ -136,14 +136,15 @@ async function getInteractiveConfiguration(options: any): Promise<ProcessConfig>
   const directory = options.directory || "./prompts";
 
   // Get user prompt with examples
+  const minInputPromptLength = 50;
   const answer = await inquirer.prompt([
     {
       type: "input",
       name: "prompt",
       message: "Describe your German freelance project (client, services, duration, etc.):",
       validate: (input: string) => {
-        if (input.trim().length < 10) {
-          return "Please provide a more detailed description (at least 10 characters)";
+        if (input.trim().length < minInputPromptLength) {
+          return `Please provide a more detailed description (at least ${minInputPromptLength} characters)`;
         }
         return true;
       },

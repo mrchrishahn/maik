@@ -122,7 +122,9 @@ export class ContractProcessor {
       console.log(chalk.gray('\nContract Draft Generated'));
       console.log(chalk.gray('Preview:'), `${draftResponse.substring(0, 200)}...`);
       // save the draft to a file
-      writeFileSync(`${this.config.outputFile}_draft.txt` || `draft_${Date.now()}.txt`, draftResponse, 'utf-8');
+      const draftName = this.config.outputFile ? `${this.config.outputFile}_draft.txt` : `draft_${Date.now()}.txt`;
+      writeFileSync(draftName, draftResponse, 'utf-8');
+      console.log(chalk.gray(`\nYou can find this draft in the filesystem as ${draftName}`));
       
       // Pause for user input
       console.log(chalk.blue('\n⏸️  Pausing for your input...'));

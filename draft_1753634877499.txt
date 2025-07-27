@@ -1,0 +1,63 @@
+Thank you for confirming the specifications. Here's the first-pass agreement based on the provided information:
+
+**1. Parties & Purpose**
+
+This Freelance Development Agreement ("Agreement") is made as of [PLACEHOLDER: Start Date], between [PLACEHOLDER: Your Name/Company Name] ("Client") and [PLACEHOLDER: Freelancer's Name] ("Developer"). 
+
+The purpose of this Agreement is for the Developer to create a Minimum Viable Product (MVP) for a new app idea of the Client. 
+
+**2. What Each Side Will Do**
+
+The Developer will:
+• Develop the MVP based on the tech stack defined by the Client.
+• Meet the specified milestones and timelines.
+• Ensure the quality and functionality of the developed app.
+
+The Client will:
+• Define the tech stack and specifications for the MVP.
+• Provide timely feedback and approvals.
+• Make payments as per the agreed schedule.
+
+**3. Money or Other Value**
+
+The Client will pay the Developer a total fee of [PLACEHOLDER: Total Fee in Currency] in accordance with the payment schedule attached as Schedule A.
+
+**4. Confidentiality**
+
+Both parties agree to keep all information regarding this project confidential, only to be shared as necessary to fulfill their respective obligations under this Agreement.
+
+**5. Ownership of Work/Materials and Licences**
+
+IP Ownership/Licensing: [Client-leaning] All intellectual property rights in the developed app, including but not limited to source code, graphics, and user interface, will belong to the Client upon payment in full.
+
+**6. Liability & Indemnities**
+
+Liability Cap: [Client-leaning] The Developer’s total liability under this Agreement shall not exceed the total amount paid by the Client under this Agreement.
+
+**7. Term, Ending the Deal, and Effects of Termination**
+
+This Agreement will commence on [PLACEHOLDER: Start Date] and will continue until [PLACEHOLDER: End Date/upon completion of the MVP], unless terminated earlier.
+
+Termination for convenience: [Flexible] Either party may terminate this Agreement at any time with [PLACEHOLDER: Notice Period] notice.
+
+**8. Disputes, Governing Law, Notices**
+
+This Agreement shall be governed by the law of [PLACEHOLDER: Jurisdiction]. Any disputes arising out of this Agreement will be resolved through mediation, or failing that, in the courts of [PLACEHOLDER: Jurisdiction].
+
+**9. General**
+
+This Agreement may not be assigned by either party without the other party's written consent. This Agreement contains the entire understanding between the parties and supersedes any prior understandings or agreements, oral or written, relating to the subject matter of this Agreement.
+
+**10. Signatures**
+
+The parties have executed this Agreement as of the date first above written.
+
+[PLACEHOLDER: Your Signature]           [PLACEHOLDER: Developer's Signature]
+[PLACEHOLDER: Your Name/Title]          [PLACEHOLDER: Developer's Name/Title]
+
+**Schedules:**
+
+Schedule A – Payment Schedule
+[Provide details of the payment schedule]
+
+Please review the draft and let us know if you have any changes.
