@@ -3,6 +3,14 @@
   "module": "index.ts",
   "type": "module",
   "private": true,
+  "scripts": {
+    "start": "bun run cli.ts",
+    "generate": "bun run cli.ts generate",
+    "interactive": "bun run cli.ts interactive",
+    "dev": "bun --watch cli.ts",
+    "test": "echo 'Run bun run interactive to test the full workflow'",
+    "demo": "echo 'Run bun run interactive to see the step-by-step workflow in action'"
+  },
   "devDependencies": {
     "@types/bun": "latest",
     "@types/inquirer": "^9.0.8"
@@ -15,6 +23,7 @@
     "@inquirer/search": "^3.0.17",
     "chalk": "^5.4.1",
     "commander": "^14.0.0",
+    "dotenv": "^16.4.5",
     "inquirer": "^12.8.2",
     "openai": "^5.10.2",
     "ora": "^8.2.0"
